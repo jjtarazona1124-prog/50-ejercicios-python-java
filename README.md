@@ -19,6 +19,3 @@ Practicar fundamentos de programación como:
 ##  Estructura
 - `/python` → ejercicios resueltos en Python
 - `/java` → ejercicios resueltos en Java
-
-## 👤 Autor
-Juan José Tarazona
